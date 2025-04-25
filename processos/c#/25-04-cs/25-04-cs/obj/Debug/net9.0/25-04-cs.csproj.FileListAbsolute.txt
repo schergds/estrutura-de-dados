@@ -1,0 +1,14 @@
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.AssemblyInfoInputs.cache
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.AssemblyInfo.cs
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.csproj.CoreCompileInputs.cache
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/bin/Debug/net9.0/25-04-cs
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/bin/Debug/net9.0/25-04-cs.deps.json
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/bin/Debug/net9.0/25-04-cs.runtimeconfig.json
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/bin/Debug/net9.0/25-04-cs.dll
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/bin/Debug/net9.0/25-04-cs.pdb
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.dll
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/refint/25-04-cs.dll
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.pdb
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/25-04-cs.genruntimeconfig.cache
+/Users/schergds/RiderProjects/25-04-cs/25-04-cs/obj/Debug/net9.0/ref/25-04-cs.dll
