@@ -1,0 +1,3 @@
+/Users/gui/Documents/23-05/cmake-build-debug/CMakeFiles/23_05c.dir
+/Users/gui/Documents/23-05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gui/Documents/23-05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
